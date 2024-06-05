@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">listas_de_camaras</string>
+    <string name="nombre">nombre</string>
+    <string name="precio">precio</string>
+</resources>
