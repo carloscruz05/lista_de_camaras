@@ -44,3 +44,4 @@ public class AdapterList extends ArrayAdapter<String> {
         return rowView;
     }
 }
+

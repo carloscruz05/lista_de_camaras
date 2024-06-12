@@ -1,5 +1,21 @@
 <resources>
-    <string name="app_name">listas_de_camaras</string>
-    <string name="nombre">nombre</string>
-    <string name="precio">precio</string>
+    <string name="app_name">Listas de Cámaras</string>
+    <string name="nombre">Nombre:</string>
+    <string name="precio">Precio:</string>
+    <string name="camera_selected">Seleccionaste la cámara: %1$s. Total: $%2$d</string>
+    <string name="camera_removed">Removiste la cámara: %1$s. Total: $%2$d</string>
+    <string-array name="camera_names">
+        <item>Canon EOS Rebel T7</item>
+        <item>Nikon D3500</item>
+        <item>Sony Alpha A6000</item>
+        <item>Fujifilm X-T30</item>
+        <item>Olympus OM-D E-M10 Mark IV</item>
+    </string-array>
+    <string-array name="camera_prices">
+        <item>500</item>
+        <item>400</item>
+        <item>600</item>
+        <item>800</item>
+        <item>700</item>
+    </string-array>
 </resources>
